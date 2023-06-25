@@ -1,4 +1,5 @@
 import Banner from "./Banner/Banner";
+import Consultation from "./Consultation/Consultation";
 import Features from "./Features/Features";
 import OurLawyers from "./OurLawyers/OurLawyers";
 import Testimonial from "./Testimonial/Testimonial";
@@ -12,6 +13,7 @@ const Home = () => {
       <WhoWeAre></WhoWeAre>
       <Testimonial></Testimonial>
       <OurLawyers></OurLawyers>
+      <Consultation/>
     </div>
   );
 };
