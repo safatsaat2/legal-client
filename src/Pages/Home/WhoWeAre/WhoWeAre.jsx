@@ -3,14 +3,14 @@ import Header from "../../../Component/Header";
 
 const WhoWeAre = () => {
   return (
-    <div className="relative">
+    <div className="relative mt-20">
       <div className="absolute top-0 mx-auto w-full">
         <Header
           heading="Who We Are"
           subHeading="Problems trying to resolve the conflict between 
             the two major realms of Classical physics: Newtonian mechanics "
         ></Header>
-        <div className=" w-[677px] h-[442px] w-full mx-auto">
+        <div className=" w-[677px] h-[442px] mx-auto">
           <Player
             playsInline
             poster="https://i.ibb.co/x59TnD7/cover.jpg"

@@ -3,7 +3,7 @@ import Header from "../../../Component/Header";
 
 const Features = () => {
   return (
-    <div className="flex flex-col justify-center items-center w-full mx-7">
+    <div className="flex flex-col justify-center items-center">
       <Header
         heading="Every Client Matters"
         subHeading="Problems trying to resolve the conflict between 
