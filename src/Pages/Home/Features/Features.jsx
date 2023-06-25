@@ -9,7 +9,7 @@ const Features = () => {
         subHeading="Problems trying to resolve the conflict between 
         the two major realms of Classical physics: Newtonian mechanics "
       />
-      <div className="grid grid-cols-3 gap-8 w-full mx-auto">
+      <div className="grid grid-cols-3 gap-8">
         <div className="border-2 border-[#E8E8E8] rounded-md  w-80">
           <div className="mx-10 my-9">
             <div className="flex items-center gap-2">
