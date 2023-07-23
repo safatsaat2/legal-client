@@ -37,7 +37,7 @@ const OurLawyers = () => {
 
           <div className=" my-8">
             <h2 className="text-[#252B42] font-header mb-1.5 font-bold text-center">
-              Rodney Stratton
+              Rodney White
             </h2>
             <p className="text-sec-col mb-1.5 font-bold font-para text-center text-sm">
               CEO
